@@ -1,5 +1,5 @@
 # BG_finder
-It find the background of traffic video or if a video with any movement.
+Application that helps to remove the motion things in the video.
 # Application Type
   python file
 # To Run Application
